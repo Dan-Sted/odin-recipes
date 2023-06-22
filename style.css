@@ -1,0 +1,21 @@
+.link {
+    font-weight: bold;
+    font-size: large;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.description,.steps {
+    overflow-wrap: normal;
+    inline-size: 500px;
+}
+
+h3,h1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
